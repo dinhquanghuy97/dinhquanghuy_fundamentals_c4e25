@@ -1,0 +1,14 @@
+1, 	-Boolen là 1 ki?u d? li?u ch? có 2 giá tr? là "True" ho?c "False"
+	-3 bi?u hi?n khác nhau:
+		+ 5 == 6 : False
+		+ 5 < 6 : True
+		+ 5 > 6 : False
+2, Flow chart là 1 d?ng so d? bi?u di?n các trình t? ho?t d?ng.
+3, Nest conditional là 1 di?u ki?n có th? du?c l?ng trong 1 di?u ki?n khác. Vd:
+n = int(input("Enter n: "))
+if n<13:
+    print("smaller")
+elif n == 13:
+    print("equal")
+else:
+    print("bigger")
