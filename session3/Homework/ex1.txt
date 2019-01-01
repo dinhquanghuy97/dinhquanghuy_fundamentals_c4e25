@@ -1,0 +1,2 @@
+1, Nested list là d?ng list l?ng ghép l?n nhau (1 list có th? ch?a 1 list khác)
+2, Có
