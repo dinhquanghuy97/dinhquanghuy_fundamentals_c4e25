@@ -1,0 +1,10 @@
+- Ð? có th? s? d?ng l?i code và có th? s?a code d? dàng hon
+- Dùng def <function_name> (function_parameter)
+- G?i function_name(function_parameter)
+- return d? tr? k?t qu? và d? có th? s? d?ng k?t qu? g?i ra hàm
+- ko, ch? thu?ng s? d?ng return v?i các hàm liên quan d?n tính toán
+- Parameter s? d?i di?n cho m?t giá tr? mà hàm c?a b?n s? nh?n du?c khi du?c g?i
+Argument là d?i di?n cho giá tr? truy?n cho parameter khi chúng ta th?c hi?n l?i g?i hàm. M?i argument s? tuong ?ng v?i m?t parameter khi khai báo
+- Có 2 cách:
+	+dùng import <tên file ch?a hàm>
+	+dùng from <tên file ch?a hàm> import <tên hàm>
